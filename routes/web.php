@@ -5,7 +5,7 @@ use App\Http\Livewire\CartComponent;
 use App\Http\Livewire\CheckoutComponent;
 use App\Http\Livewire\DetailsComponent;
 use App\Http\Livewire\WishlistComponent;
-use App\Http\livewire\ThankyouComponent;
+use App\Http\Livewire\ThankyouComponent;
 use App\Http\Livewire\ContactComponent;
 use App\Http\Livewire\User\UserDashboardComponent;
 use App\Http\Livewire\User\UserOrdersComponent;
